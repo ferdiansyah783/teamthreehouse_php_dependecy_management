@@ -1,0 +1,9 @@
+//this is sample configuration of API Gmail server ,rename this file to config_api.php
+
+
+$email = 'user@gmail.com';
+$clientId = 'RSNDOMCHAR......apps.googleusercontent.com';
+$clientSecret = 'RSNDOMCHAR....._X0cXRq';
+
+$refreshToken = 'RSNDOMCHAR.....1/0';
+ 

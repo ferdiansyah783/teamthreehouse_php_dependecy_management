@@ -1,0 +1,16 @@
+{
+    "name": "ferdi/introduce_composer",
+    "description": "improte package to project",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0",
+        "swiftmailer/swiftmailer": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "ferdi",
+            "email": "mtskrmmarzuki67@gmail.com"
+        }
+    ]
+}
